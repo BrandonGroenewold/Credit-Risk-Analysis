@@ -1,0 +1,13 @@
+## Analysis
+For this project we ran two tests a Logistical Regression and Random Forest Classifier
+
+#### Logistic regression
+- For our logistic regression our training data score was a 0.99212 and our test data score was 0.99184
+- This shows us that our training and testing model was accurate for both and would be reliable for use
+
+
+#### Random Forest Classifier
+- Our Random Forest Classifier our training score was a 0.78666 and a testing score of 0.92
+- Which means our Random Forest Classifier is still fairly accurate and is not over trained
+
+This means that the Logistic regression performs better. I thought that would be the case as Logistic Regression is usually used for classification and prediction problems. This test is also known to be going at predicting binary results like yes or no and that is what we were going for.
