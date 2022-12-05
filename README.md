@@ -1,4 +1,4 @@
-Predicting Credit Risk
+# Predicting Credit Risk
 
 Skills used:
 - Machine Learning, LogisticRegression, RandomForestClassifier, Confusion Matrix
